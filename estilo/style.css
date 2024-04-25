@@ -38,6 +38,7 @@ section#telefone{
 }
 
 #redes-sociais{
+    position: relative;
     text-align: right;
 }
 
@@ -53,4 +54,5 @@ section#telefone{
     margin: 10px;
     box-shadow: 2px 2px 5px #0000006b;
     box-sizing: border-box;
+    
 }
